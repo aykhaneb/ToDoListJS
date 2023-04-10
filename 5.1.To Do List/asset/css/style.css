@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: cornflowerblue;
+}
+
+input {
+  border: none;
+  border-radius: 15px;
+  border: none;
+  background-color: burlywood;
+}
+
+.add {
+  color: #fff;
+}
+
+.active {
+  background-color: blue !important;
+  text-decoration: line-through;
+  color: #fff;
+}/*# sourceMappingURL=style.css.map */
